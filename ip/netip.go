@@ -1,4 +1,4 @@
-package netip
+package ip
 
 import (
 	"errors"
